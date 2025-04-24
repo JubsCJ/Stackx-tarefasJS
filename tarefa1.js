@@ -8,6 +8,6 @@ let cidadesJapao = ["Toquio", "Osaka", "Quioto"];
 
 cidadesBrasileiras.concat(cidadesJapao);
 
-const cindadesUnidas = cidadesBrasileiras.concat(cidadesJapao)
+const cidadesUnidas = cidadesBrasileiras.concat(cidadesJapao)
 
-console.log(cindadesUnidas)
+console.log(cidadesUnidas)
