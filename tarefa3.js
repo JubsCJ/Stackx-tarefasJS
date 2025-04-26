@@ -8,7 +8,7 @@ Exiba uma mensagem no console informando o resultado.
 Exemplo de entrada array = [10, 20, 30, 40, 60], saída esperada: “O array possui 1 número maior que 50ˮ.
 */
 
-const numeros = [2, 4, 6, 20, 35, 50, 65];
+let numeros = [2, 4, 6, 20, 35, 50, 65];
 let tem_maior_que_50;
 
 for (let i = 0; i < numeros.length; i++) {
